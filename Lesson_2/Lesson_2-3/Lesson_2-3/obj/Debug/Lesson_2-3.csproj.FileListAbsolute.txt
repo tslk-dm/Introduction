@@ -1,0 +1,6 @@
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 2. Базовые типы C#. Операторы ветвления. Область видимости\Практика\Lesson_2-3\Lesson_2-3\bin\Debug\Lesson_2-3.exe.config
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 2. Базовые типы C#. Операторы ветвления. Область видимости\Практика\Lesson_2-3\Lesson_2-3\bin\Debug\Lesson_2-3.exe
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 2. Базовые типы C#. Операторы ветвления. Область видимости\Практика\Lesson_2-3\Lesson_2-3\bin\Debug\Lesson_2-3.pdb
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 2. Базовые типы C#. Операторы ветвления. Область видимости\Практика\Lesson_2-3\Lesson_2-3\obj\Debug\Lesson_2-3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 2. Базовые типы C#. Операторы ветвления. Область видимости\Практика\Lesson_2-3\Lesson_2-3\obj\Debug\Lesson_2-3.exe
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 2. Базовые типы C#. Операторы ветвления. Область видимости\Практика\Lesson_2-3\Lesson_2-3\obj\Debug\Lesson_2-3.pdb
