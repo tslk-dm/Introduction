@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\bin\Debug\Lesson_3-2.exe.config
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\bin\Debug\Lesson_3-2.exe
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\bin\Debug\Lesson_3-2.pdb
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\obj\Debug\Lesson_3-2.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\obj\Debug\Lesson_3-2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\obj\Debug\Lesson_3-2.exe
+C:\Users\User\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\obj\Debug\Lesson_3-2.pdb
+D:\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\bin\Debug\Lesson_3-2.exe.config
+D:\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\bin\Debug\Lesson_3-2.exe
+D:\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\bin\Debug\Lesson_3-2.pdb
+D:\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\obj\Debug\Lesson_3-2.csprojAssemblyReference.cache
+D:\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\obj\Debug\Lesson_3-2.csproj.CoreCompileInputs.cache
+D:\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\obj\Debug\Lesson_3-2.exe
+D:\OneDrive\GB\2. Введение в C#\Урок 3. Массивы и строки. Операторы цикла\Практика\Lesson_3\Lesson_3-2\obj\Debug\Lesson_3-2.pdb
