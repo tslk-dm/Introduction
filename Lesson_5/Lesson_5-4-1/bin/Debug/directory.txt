@@ -1,0 +1,10 @@
+D:\Dima\Example\Papka1
+D:\Dima\Example\Papka2
+D:\Dima\Example\Papka3
+D:\Dima\Example\text1.txt
+D:\Dima\Example\Papka1\Papka11
+D:\Dima\Example\Papka1\text11.txt
+D:\Dima\Example\Papka1\Papka11\Papka111
+D:\Dima\Example\Papka1\Papka11\text111.txt
+D:\Dima\Example\Papka1\Papka11\Papka111\text1111.txt
+D:\Dima\Example\Papka2\Papka22
