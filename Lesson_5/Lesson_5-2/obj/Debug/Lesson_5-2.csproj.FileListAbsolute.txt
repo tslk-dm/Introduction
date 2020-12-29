@@ -1,0 +1,7 @@
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-2\bin\Debug\Lesson_5-2.exe.config
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-2\bin\Debug\Lesson_5-2.exe
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-2\bin\Debug\Lesson_5-2.pdb
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-2\obj\Debug\Lesson_5-2.csprojAssemblyReference.cache
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-2\obj\Debug\Lesson_5-2.csproj.CoreCompileInputs.cache
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-2\obj\Debug\Lesson_5-2.exe
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-2\obj\Debug\Lesson_5-2.pdb

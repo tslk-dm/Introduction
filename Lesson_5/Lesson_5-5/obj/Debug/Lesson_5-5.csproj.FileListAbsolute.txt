@@ -1,0 +1,17 @@
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\Lesson_5-5.exe.config
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\Lesson_5-5.exe
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\Lesson_5-5.pdb
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\System.Memory.dll
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\System.Text.Json.dll
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\obj\Debug\Lesson_5-5.csprojAssemblyReference.cache
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\obj\Debug\Lesson_5-5.exe.config
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\obj\Debug\Lesson_5-5.csproj.CoreCompileInputs.cache
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\obj\Debug\Lesson_5-5.csproj.CopyComplete
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\obj\Debug\Lesson_5-5.exe
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\obj\Debug\Lesson_5-5.pdb
+D:\OneDrive\GB\2. Введение в C#\Новая папка\Lesson_5\Lesson_5-5\bin\Debug\System.Buffers.dll
