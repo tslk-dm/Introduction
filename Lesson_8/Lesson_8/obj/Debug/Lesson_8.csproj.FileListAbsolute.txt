@@ -1,0 +1,7 @@
+D:\OneDrive\GB\2. Введение в C#\Урок 8\Lesson_8\Lesson_8\bin\Debug\Lesson_8.exe.config
+D:\OneDrive\GB\2. Введение в C#\Урок 8\Lesson_8\Lesson_8\bin\Debug\Lesson_8.exe
+D:\OneDrive\GB\2. Введение в C#\Урок 8\Lesson_8\Lesson_8\bin\Debug\Lesson_8.pdb
+D:\OneDrive\GB\2. Введение в C#\Урок 8\Lesson_8\Lesson_8\obj\Debug\Lesson_8.csprojAssemblyReference.cache
+D:\OneDrive\GB\2. Введение в C#\Урок 8\Lesson_8\Lesson_8\obj\Debug\Lesson_8.csproj.CoreCompileInputs.cache
+D:\OneDrive\GB\2. Введение в C#\Урок 8\Lesson_8\Lesson_8\obj\Debug\Lesson_8.exe
+D:\OneDrive\GB\2. Введение в C#\Урок 8\Lesson_8\Lesson_8\obj\Debug\Lesson_8.pdb
