@@ -1,0 +1,7 @@
+D:\OneDrive\GB\2. Введение в C#\Урок 4. Методы стандартных классов .NET\Новая папка\Lesson_4\Lesson_4-2\bin\Debug\Lesson_4-2.exe.config
+D:\OneDrive\GB\2. Введение в C#\Урок 4. Методы стандартных классов .NET\Новая папка\Lesson_4\Lesson_4-2\bin\Debug\Lesson_4-2.exe
+D:\OneDrive\GB\2. Введение в C#\Урок 4. Методы стандартных классов .NET\Новая папка\Lesson_4\Lesson_4-2\bin\Debug\Lesson_4-2.pdb
+D:\OneDrive\GB\2. Введение в C#\Урок 4. Методы стандартных классов .NET\Новая папка\Lesson_4\Lesson_4-2\obj\Debug\Lesson_4-2.csprojAssemblyReference.cache
+D:\OneDrive\GB\2. Введение в C#\Урок 4. Методы стандартных классов .NET\Новая папка\Lesson_4\Lesson_4-2\obj\Debug\Lesson_4-2.csproj.CoreCompileInputs.cache
+D:\OneDrive\GB\2. Введение в C#\Урок 4. Методы стандартных классов .NET\Новая папка\Lesson_4\Lesson_4-2\obj\Debug\Lesson_4-2.exe
+D:\OneDrive\GB\2. Введение в C#\Урок 4. Методы стандартных классов .NET\Новая папка\Lesson_4\Lesson_4-2\obj\Debug\Lesson_4-2.pdb
